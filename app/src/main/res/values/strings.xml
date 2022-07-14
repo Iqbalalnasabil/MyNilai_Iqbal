@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNilai_Iqbal</string>
+    <string-array name="matkul">
+        <item>PILIH MATA KULIAH</item>
+        <item>MOBILE COMPUTING</item>
+        <item>RISET OPERASI</item>
+        <item>KOMPUTASI CERDAS</item>
+        <item>MANAJEMEN PROYEK</item>
+        <item>KOMPUTER DAN MASYARAKAT</item>
+        <item>SIMULATOR DIGITAL PESAWAT</item>
+    </string-array>
+</resources>
